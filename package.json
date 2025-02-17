@@ -12,5 +12,18 @@
   "devDependencies": {
     "qunit": "^2.23.1",
     "sinon": "^19.0.2"
-  }
+  },
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacob-C-Smith/M5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jacob-C-Smith/M5/issues"
+  },
+  "homepage": "https://github.com/Jacob-C-Smith/M5#readme",
+  "keywords": []
 }
